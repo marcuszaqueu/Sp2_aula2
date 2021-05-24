@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Situação Problema 2 - Aula 2</string>
+    <string name="nomeInicial">Digite Seu Nome</string>
+    <string name="ol">Olá!</string>
+    <string name="seja_bem_vindo">Seja Bem Vindo!!!</string>
+    <string name="carregar">Carregar</string>
+</resources>
